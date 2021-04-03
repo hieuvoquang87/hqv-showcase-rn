@@ -1,0 +1,12 @@
+{
+  "name": "rn-showcase",
+  "displayName": "rn-showcase",
+  "expo": {
+    "name": "rn-showcase",
+    "slug": "rn-showcase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

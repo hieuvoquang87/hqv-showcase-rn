@@ -1,6 +1,7 @@
 {
   "main": "index.js",
   "scripts": {
+    "update:splash-screen": "expo-splash-screen -p all -i ./assets/splash.png -b #ffffff -r cover",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "web": "expo start --web",
@@ -9,7 +10,7 @@
   },
   "dependencies": {
     "expo": "~40.0.0",
-    "expo-splash-screen": "~0.8.0",
+    "expo-splash-screen": "~0.8.1",
     "expo-status-bar": "~1.0.3",
     "expo-updates": "~0.4.0",
     "react": "16.13.1",
